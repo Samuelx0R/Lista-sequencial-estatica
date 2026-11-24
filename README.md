@@ -4,14 +4,13 @@
 
 # Lista Sequencial Estática
 
-![Linguagem C](https://img.shields.io/badge/linguagem-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)
-![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
-
-![Estrutura de dados](https://img.shields.io/badge/estrutura%20de%20dados-lista%20sequencial-2ec4b6)
-![IDE](https://img.shields.io/badge/IDE-Code%3A%3ABlocks-3a86ff)
-![Compilador](https://img.shields.io/badge/compilador-GCC-orange)
-![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-yellow)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GCC](https://img.shields.io/badge/gcc-%23A8B9CC.svg?style=for-the-badge&logo=gnu&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Cadastro de alunos em terminal, feito em C com uma lista sequencial estática (vetor de tamanho fixo).**
 
