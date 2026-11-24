@@ -29,14 +29,19 @@ O programa guarda até **100 alunos** (matrícula, nome e 3 notas) em um vetor d
 
 <div align="center">
 
-| Menu | Operação |
-|:---:|---|
-| `E` | Verificar se a lista existe |
-| `C` | Verificar se a lista está cheia |
-| `V` | Verificar se a lista está vazia |
-| `T` | Mostrar o tamanho da lista |
-| `O` | Abrir o menu de operações (abaixo) |
-| `S` | Sair |
+<table align="center">
+  <thead>
+    <tr><th align="center">Menu</th><th align="left">Operação</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center"><code>E</code></td><td>Verificar se a lista existe</td></tr>
+    <tr><td align="center"><code>C</code></td><td>Verificar se a lista está cheia</td></tr>
+    <tr><td align="center"><code>V</code></td><td>Verificar se a lista está vazia</td></tr>
+    <tr><td align="center"><code>T</code></td><td>Mostrar o tamanho da lista</td></tr>
+    <tr><td align="center"><code>O</code></td><td>Abrir o menu de operações (abaixo)</td></tr>
+    <tr><td align="center"><code>S</code></td><td>Sair</td></tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -44,17 +49,22 @@ O programa guarda até **100 alunos** (matrícula, nome e 3 notas) em um vetor d
 
 **Menu de operações**
 
-| Opção | O que faz |
-|:---:|---|
-| `1` | Criar a lista |
-| `2` | Inserir no **final** |
-| `3` | Inserir no **início** |
-| `4` | Inserir no **meio**, mantendo a ordem crescente de matrícula |
-| `5` | Remover do final |
-| `6` | Remover do início |
-| `7` | Remover pela matrícula |
-| `8` | Consultar pela **posição** |
-| `9` | Consultar pela **matrícula** |
+<table align="center">
+  <thead>
+    <tr><th align="center">Opção</th><th align="left">O que faz</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center"><code>1</code></td><td>Criar a lista</td></tr>
+    <tr><td align="center"><code>2</code></td><td>Inserir no <b>final</b></td></tr>
+    <tr><td align="center"><code>3</code></td><td>Inserir no <b>início</b></td></tr>
+    <tr><td align="center"><code>4</code></td><td>Inserir no <b>meio</b>, mantendo a ordem crescente de matrícula</td></tr>
+    <tr><td align="center"><code>5</code></td><td>Remover do final</td></tr>
+    <tr><td align="center"><code>6</code></td><td>Remover do início</td></tr>
+    <tr><td align="center"><code>7</code></td><td>Remover pela matrícula</td></tr>
+    <tr><td align="center"><code>8</code></td><td>Consultar pela <b>posição</b></td></tr>
+    <tr><td align="center"><code>9</code></td><td>Consultar pela <b>matrícula</b></td></tr>
+  </tbody>
+</table>
 
 </div>
 
