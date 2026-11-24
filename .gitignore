@@ -1,0 +1,11 @@
+# Binarios e objetos
+bin/
+obj/
+*.o
+*.exe
+/lista
+
+# Arquivos locais do Code::Blocks
+*.layout
+*.depend
+*.save-all

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="t d">
+  <title id="t">Lista Sequencial Estática</title>
+  <desc id="d">Um vetor de seis células, quatro preenchidas e duas vazias, representando uma lista sequencial estática em C.</desc>
+  <defs>
+    <linearGradient id="cell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ec4b6"/>
+      <stop offset="1" stop-color="#3a86ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="300" rx="22" fill="#0d1b2a"/>
+  <g font-family="'Fira Code','Consolas','Menlo',monospace" text-anchor="middle">
+    <!-- células preenchidas -->
+    <g fill="url(#cell)">
+      <rect x="86"  y="36" width="88" height="88" rx="12"/>
+      <rect x="186" y="36" width="88" height="88" rx="12"/>
+      <rect x="286" y="36" width="88" height="88" rx="12"/>
+      <rect x="386" y="36" width="88" height="88" rx="12"/>
+    </g>
+    <!-- células livres -->
+    <g fill="none" stroke="#415a77" stroke-width="3" stroke-dasharray="7 7">
+      <rect x="486" y="38" width="86" height="86" rx="12"/>
+      <rect x="586" y="38" width="86" height="86" rx="12"/>
+    </g>
+    <g fill="#ffffff" font-size="30" font-weight="700">
+      <text x="130" y="91">10</text>
+      <text x="230" y="91">20</text>
+      <text x="330" y="91">30</text>
+      <text x="430" y="91">40</text>
+    </g>
+    <g fill="#415a77" font-size="26">
+      <text x="529" y="89">·</text>
+      <text x="629" y="89">·</text>
+    </g>
+    <!-- índices -->
+    <g fill="#8da9c4" font-size="16">
+      <text x="130" y="150">[0]</text>
+      <text x="230" y="150">[1]</text>
+      <text x="330" y="150">[2]</text>
+      <text x="430" y="150">[3]</text>
+      <text x="529" y="150">[4]</text>
+      <text x="629" y="150">[5]</text>
+    </g>
+    <text x="380" y="214" fill="#e0e1dd" font-size="38" font-weight="700">Lista Sequencial Estática</text>
+    <text x="380" y="250" fill="#8da9c4" font-size="17">Estrutura de Dados I  ·  Linguagem C  ·  qtd = 4  ·  MAX = 100</text>
+  </g>
+</svg>
