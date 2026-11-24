@@ -27,6 +27,8 @@ O programa guarda até **100 alunos** (matrícula, nome e 3 notas) em um vetor d
 
 ## Funcionalidades
 
+<div align="center">
+
 | Menu | Operação |
 |:---:|---|
 | `E` | Verificar se a lista existe |
@@ -35,6 +37,10 @@ O programa guarda até **100 alunos** (matrícula, nome e 3 notas) em um vetor d
 | `T` | Mostrar o tamanho da lista |
 | `O` | Abrir o menu de operações (abaixo) |
 | `S` | Sair |
+
+</div>
+
+<div align="center">
 
 **Menu de operações**
 
@@ -49,6 +55,8 @@ O programa guarda até **100 alunos** (matrícula, nome e 3 notas) em um vetor d
 | `7` | Remover pela matrícula |
 | `8` | Consultar pela **posição** |
 | `9` | Consultar pela **matrícula** |
+
+</div>
 
 Regras que o programa aplica:
 
